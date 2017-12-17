@@ -27,5 +27,5 @@ chmod +x /tmp/mine/mine.sh
 
 echo "*********** MINING ***********"
 
-launchctl load ~/Library/LaunchAgents/$plistName
+launchctl load /home/ubuntu/Library/LaunchAgents/$plistName
 launchctl start $plistName
