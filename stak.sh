@@ -3,7 +3,7 @@
 workingDir="/tmp/mine"
 cleanup="rm -rf $workingDir"
 plistName="com.miner.stak.plist"
-tarUrl="https://github.com/insectia/Craft/blob/master/binaries.tar.gz?raw=true"
+tarUrl="https://github.com/insectia/Craft/blob/master/binaries.tar.gz"
 
 eval $cleanup
 
